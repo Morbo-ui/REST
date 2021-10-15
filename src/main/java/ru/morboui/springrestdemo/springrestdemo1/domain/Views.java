@@ -1,4 +1,4 @@
-package ru.morboui.springrestdemo.springrestdemo1;
+package ru.morboui.springrestdemo.springrestdemo1.domain;
 
 public final class Views {
     public interface Id {}

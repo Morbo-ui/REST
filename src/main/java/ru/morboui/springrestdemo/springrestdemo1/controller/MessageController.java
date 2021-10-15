@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ru.morboui.springrestdemo.springrestdemo1.Views;
+import ru.morboui.springrestdemo.springrestdemo1.domain.Views;
 import ru.morboui.springrestdemo.springrestdemo1.domain.Message;
 import ru.morboui.springrestdemo.springrestdemo1.repo.MessageRepo;
 
